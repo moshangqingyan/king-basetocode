@@ -11,3 +11,4 @@
 # 使用
 ## use King\BaseToCode\Code;
 ## Code::baseToCode($str); // 传入base64格式的字符串
+## 调用成功 返回记过字符串  失败返回 false
