@@ -15,7 +15,7 @@ class CodeServiceProvider extends ServiceProvider
     {
         //
         $this->publishes([
-            __DIR__ . '/config/basetocode.php' => config_path('basetocode.php')
+            __DIR__ . '/../config/basetocode.php' => config_path('basetocode.php')
         ]);
     }
 
