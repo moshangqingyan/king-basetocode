@@ -9,6 +9,6 @@
 ### php artisan vendor:publish --provider="King\BaseToCode\Provider\CodeServiceProvider"
 
 # 使用
-## use King\BaseToCode\Code;
-## Code::baseToCode($str); // 传入base64格式的字符串
-## 调用成功 返回记过字符串  失败返回 false
+### use King\BaseToCode\Code;
+### Code::baseToCode($str); // 传入base64格式的字符串
+### 调用成功 返回识别的验证码  失败返回 false
