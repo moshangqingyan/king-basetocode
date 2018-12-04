@@ -8,6 +8,6 @@
 ## 3.发布文件配置
 ### php artisan vendor:publish --provider="King\BaseToCode\Provider\CodeServiceProvider"
 
-#使用
+# 使用
 ## use King\BaseToCode\Code;
 ## Code::baseToCode($str); // 传入base64格式的字符串
