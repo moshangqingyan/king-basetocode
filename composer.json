@@ -1,0 +1,15 @@
+{
+    "name": "king/basetocode",
+    "authors": [
+        {
+            "name": "kingfly",
+            "email": "1131587413@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "King\\BaseToCode\\": "src/"
+        }
+    }
+}
